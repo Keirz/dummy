@@ -1,5 +1,5 @@
 
-{
+[
   "players": [{
   "id": 1,
   "nome": "Opalina",
@@ -142,4 +142,5 @@
   "tag": "/images/profile.jpg",
   "game": "World of Warcraft"
 }
-]}
+]
+]
