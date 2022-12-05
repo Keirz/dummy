@@ -1,5 +1,6 @@
 
-[{
+{
+  "players": [{
   "id": 1,
   "nome": "Opalina",
   "position": "DPS",
@@ -140,4 +141,5 @@
   "Disctag": "Teste#11111",
   "tag": "/images/profile.jpg",
   "game": "World of Warcraft"
-}]
+}
+]}
