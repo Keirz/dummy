@@ -1,0 +1,42 @@
+
+  {
+  "users": [
+    {   
+      "id": "1",
+      "funcNome": "Pedro Queiróz",
+      "funcNSocial": "Pedro",
+      "funcRG": "111.555.33-9",
+      "funcCPF": "222.222.333-15",
+      "funcEmissor": "SSP",
+      "funcEmissorUF": "BA",
+      "funcDateEmit": "12/12/2000",
+      "funcCargo": "Estagiário",
+      "funcEmpresa": "SMED",
+      "funcVinculo": "Estágio",
+      "funcCNS": "",
+      "funcTel": "(71)9999-9999",
+      "funcEmail": "dummy@gmail.com",
+      "funcPacienteRel": "",
+      "funcActive": true,
+      "funcInformatica": true,
+      "funcManuntencao": false,
+      "funcCCompras": false,
+      "funcAdmn": true,
+      "funcUserCheck": true,
+      "funcPowerCheck": true,
+      "funcSubscribe": false,
+      "funcLogin": "dummy",
+      "funcPassword": "123456789",
+      "funcConselho": "123456789",
+      "funcConselhoUF": "",
+      "funcConselhoNumber": "",
+      "funcDigitalCert": true,
+      "funcEstudante": true,
+      "funcPreceptor": false,
+      "funcToten": false,
+      "funcAdminCheck": true
+
+    }
+    ]
+  }
+
